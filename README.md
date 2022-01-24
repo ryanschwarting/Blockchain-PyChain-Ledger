@@ -92,7 +92,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 ---
 # My Screenshots
 
-![alt=""](Images/application-image.png)
+![alt=""](Images/streamlit_pychain.png)
 
 ---
 
