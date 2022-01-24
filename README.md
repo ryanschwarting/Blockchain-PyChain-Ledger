@@ -90,13 +90,9 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
 ---
-## Submission
+# My Screenshots
 
-You’ll upload the Python file for this assignment to your GitHub repository.
-
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
+![alt=""](Images/application-image.png)
 
 ---
 
